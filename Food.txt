@@ -1,0 +1,19 @@
+Protein:
+  - CHICKEN NUGGETS
+  - MOR CHIKEN NUGETS
+  - Turkey
+  - Eggs
+  - Ground Beef :O
+Plants and Plant Products:
+  - Peas
+  - Carrots
+  - Potato potawto
+  - Lemon
+  - Orange
+  - Applers
+Sweets:
+  - Chocolate
+  - Mor Chocolate
+  - Evn Mor Chocolate
+  - I guess some caramel...
+  - Sugar Stix
